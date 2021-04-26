@@ -1,4 +1,4 @@
-# nomfilx App 2021
+# nomflix App 2021
 
 React practice
 
