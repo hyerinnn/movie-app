@@ -3,4 +3,8 @@
 React practice
 
 
-
+## Screens
+- [ ] Home
+- [ ] TV Shows
+- [ ] Search
+- [ ] Detail
